@@ -1,0 +1,19 @@
+* { 
+background: black;
+}
+#text{	
+ 	color:white;
+ } 
+ #titulo{
+ 	color: red;
+ 	font-size: 20px;
+ }
+#text{
+  font-size: 15px;
+}
+p{
+font-family: Cookie;
+}
+p:hover{
+color:goldenrod;
+}
